@@ -1,6 +1,6 @@
 # node-todo-cicd
 
-Run these commands:
+Run these commands for start the code run
 
 
 `sudo apt install nodejs`
